@@ -1,31 +1,30 @@
 # Scripting-Language
 
-## **Opis:**
-Scripting-Language to repozytorium poświęcone programowaniu w językach skryptowych. Znajdziesz tutaj przykładowe projekty, skrypty i materiały edukacyjne związane z tworzeniem programów przy użyciu języków skryptowych.
+## **Description:**
+Scripting-Language is a repository dedicated to programming in scripting languages. Here you will find example projects, scripts and educational materials related to creating programs using scripting languages.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się języki skryptowe. Każdy projekt posiada swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use scripting languages. Each project has its own folder with description and source code.
 
-/Skrypty: W tym folderze znajdują się gotowe skrypty w różnych językach skryptowych, które mogą być użyteczne w różnych zastosowaniach.
+/Scripts: This folder contains ready-made scripts in various scripting languages that can be useful for various purposes.
 
-/Materiały: Tutaj znajdują się materiały edukacyjne, takie jak poradniki, artykuły i dokumentacja, które pomogą Ci w nauce i zrozumieniu języków skryptowych.
+/Resources: Here are educational resources such as guides, articles, and documentation to help you learn and understand scripting languages.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Scripting-Language.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby tworzyć programy przy użyciu języków skryptowych.
+Leverage available resources and tools to create programs using scripting languages.
 
-## **Wymagania systemowe**
-Aby programować w językach skryptowych, będziesz potrzebować odpowiedniego oprogramowania i środowisk programistycznych dla konkretnych języków skryptowych, takich jak Python, JavaScript, Ruby, Perl czy PHP. Upewnij się, że masz zainstalowane wymagane narzędzia zgodnie z wybranym językiem skryptowym.
+## **System requirements**
+To program in scripting languages, you will need the right software and development environments for specific scripting languages, such as Python, JavaScript, Ruby, Perl or PHP. Make sure you have the required tools installed according to your chosen scripting language.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z językami skryptowymi. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own projects related to scripting languages. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
