@@ -6,9 +6,7 @@ Scripting-Language is a repository dedicated to programming in scripting languag
 ## **Repository Structure:**
 /Projects: This folder contains various projects that use scripting languages. Each project has its own folder with description and source code.
 
-/Scripts: This folder contains ready-made scripts in various scripting languages that can be useful for various purposes.
-
-/Resources: Here are educational resources such as guides, articles, and documentation to help you learn and understand scripting languages.
+/Labs: This folder contains ready-made scripts in various scripting languages that can be useful for various purposes.
 
 ## **How ​​to start:**
 
