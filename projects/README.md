@@ -1,24 +1,24 @@
-# Projekty związane ze Skryptowymi Językami Programowania
-Witaj w świecie projektów związanych ze skryptowymi językami programowania! Ten obszar programowania oferuje niezwykłą elastyczność i wszechstronność, pozwalając na tworzenie praktycznych i efektywnych rozwiązań w różnych dziedzinach. Skryptowe języki programowania są popularne ze względu na swoją prostotę, łatwość nauki i możliwość szybkiego prototypowania.
+# Projects related to Scripting Programming Languages
+Welcome to the world of projects related to scripting programming languages! This area of ​​programming offers extraordinary flexibility and versatility, allowing you to create practical and effective solutions in various fields. Scripting programming languages ​​are popular because of their simplicity, ease of learning, and ability to quickly prototype.
 
-## Dlaczego warto uczestniczyć w tych projektach?
-Szybki rozwój: Skryptowe języki programowania pozwalają na szybki rozwój aplikacji i prototypów, dzięki czemu można szybko testować pomysły i koncepcje.
+## Why is it worth participating in these projects?
+Rapid development: Scripting programming languages ​​allow for rapid development of applications and prototypes, so you can quickly test ideas and concepts.
 
-Automatyzacja zadań: Skrypty mogą być używane do automatyzacji powtarzalnych zadań, co pozwala na zaoszczędzenie czasu i wysiłku.
+Task automation: Scripts can be used to automate repetitive tasks, saving you time and effort.
 
-Wszechstronność: Skryptowe języki programowania są wszechstronne i znajdują zastosowanie w wielu dziedzinach, takich jak analiza danych, administracja systemami, tworzenie stron internetowych, obliczenia naukowe i wiele innych.
+Versatility: Scripting programming languages ​​are versatile and are used in many fields such as data analysis, systems administration, web development, scientific computing, and many others.
 
-Popularność: Skryptowe języki programowania, takie jak Python, JavaScript, Ruby czy Perl, są bardzo popularne i mają duże społeczności użytkowników, co ułatwia zdobywanie wiedzy i wsparcie.
+Popularity: Scripting languages ​​like Python, JavaScript, Ruby, and Perl are very popular and have large user communities, making it easy to gain knowledge and support.
 
-## Przykładowe projekty:
-Analiza danych: Tworzenie skryptów do analizy danych, przetwarzania plików CSV, generowania wykresów i raportów.
+## Sample projects:
+Data analysis: Creating scripts for data analysis, processing CSV files, generating charts and reports.
 
-Automatyzacja administracji systemami: Programowanie skryptów do zarządzania serwerami, tworzenia kopii zapasowych, monitorowania i innych zadań administracyjnych.
+Systems Administration Automation: Programming scripts for server management, backups, monitoring and other administrative tasks.
 
-Tworzenie stron internetowych: Wykorzystanie skryptowych języków, takich jak JavaScript czy Python, do interaktywnego tworzenia stron internetowych i aplikacji webowych.
+Website Development: Using scripting languages ​​such as JavaScript and Python to interactively create websites and web applications.
 
-Skrypty do gier: Programowanie skryptów do gier, które umożliwiają kontrolę zachowania postaci, generowanie poziomów czy obsługę interakcji z użytkownikiem.
+Game scripts: Programming game scripts that allow you to control character behavior, generate levels, or handle user interactions.
 
-Aplikacje desktopowe: Tworzenie aplikacji desktopowych za pomocą skryptowych języków, które oferują prostotę i szybkość tworzenia.
+Desktop Applications: Build desktop applications using scripting languages ​​that offer simplicity and speed of development.
 
-Zapraszamy do uczestnictwa w projektach związanych ze skryptowymi językami programowania i doświadczania ich elastyczności, potencjału i różnorodnych zastosowań. Niech te projekty stanowią inspirację do tworzenia praktycznych i innowacyjnych rozwiązań, które przyczyniają się do rozwoju technologii i ułatwiają codzienną pracę.
+We invite you to participate in projects related to scripting programming languages ​​and experience their flexibility, potential and diverse applications. Let these projects serve as an inspiration to create practical and innovative solutions that contribute to the development of technology and make everyday work easier.
