@@ -2,7 +2,7 @@
 
 <hr>
 
-### 1.**Schemat Hornera-wyznaczanie wartości wielomianu w punkcie**; dowolny przykład. 
+### 1. **Schemat Hornera-wyznaczanie wartości wielomianu w punkcie**; dowolny przykład. 
 ### 2. **Schemat Hornera-dzielenie wielomianu przez dwumian**; dowolny przykład.
 ### 3. Rozwiązywanie równań nieliniowych - **metoda bisekcji**; znaleźć pierwiastek rzeczywisty równania `x ^ 3 + x - 1 = 0` w przedziale `[0; 1]` z dokładnością do `E = 0, 1`
 ### 4. Rozwiązywanie równań nieliniowych - **metoda stycznych**; znaleźć dodatni pierwiastek równania `sin(x) - 1/2 * x = 0` w przedziale `[pi/2, pi]` z dokładnością do `E = 0.01`
