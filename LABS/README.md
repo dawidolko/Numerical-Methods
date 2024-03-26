@@ -5,9 +5,9 @@
 ### [1. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Horner) **Schemat Hornera - wyznaczanie wartości wielomianu w punkcie**; dowolny przykład. 
 ### [2. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Bisekcja) **Schemat Hornera - dzielenie wielomianu przez dwumian**; dowolny przykład.
 ### [3. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Stycznych) Rozwiązywanie równań nieliniowych - **metoda bisekcji**; znaleźć pierwiastek rzeczywisty równania `x ^ 3 + x - 1 = 0` w przedziale `[0; 1]` z dokładnością do `E = 0, 1`
-### 4. Rozwiązywanie równań nieliniowych - **metoda stycznych**; znaleźć dodatni pierwiastek równania `sin(x) - 1/2 * x = 0` w przedziale `[pi/2, pi]` z dokładnością do `E = 0.01`
-### 5. Rozwiązywanie równań nieliniowych - **metoda siecznych**; znaleźć pierwiastek równania `x ^ 3 + x ^ 2 - 3x - 3 = 0` w przedziale `[1; 2]` z dokładnością do `E = 0, 1`
-### 6. Rozwiązywanie równań nieliniowych - **metoda falsi**; znaleźć rzeczywisty pierwiastek równania `3x- cos x - 1 = 0` w przedziale `[0.25; 0,75]`. Przyjąć `E=0,00001`.
+### [4. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Stycznych) Rozwiązywanie równań nieliniowych - **metoda stycznych**; znaleźć dodatni pierwiastek równania `sin(x) - 1/2 * x = 0` w przedziale `[pi/2, pi]` z dokładnością do `E = 0.01`
+### [5. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Siecznych) Rozwiązywanie równań nieliniowych - **metoda siecznych**; znaleźć pierwiastek równania `x ^ 3 + x ^ 2 - 3x - 3 = 0` w przedziale `[1; 2]` z dokładnością do `E = 0, 1`
+### [6. ](https://github.com/dawidolko/Numerical-Methods/tree/main/LABS/Python/Falsi) Rozwiązywanie równań nieliniowych - **metoda falsi**; znaleźć rzeczywisty pierwiastek równania `3x- cos x - 1 = 0` w przedziale `[0.25; 0,75]`. Przyjąć `E=0,00001`.
 ### 7. Całkowanie numeryczne - **metoda trapezów**; obliczyć wartość całki `integrate sqrt(1 + x) dx from 0 to 1` z krokiem `h=1/3`.
 ### 8. Całkowanie numeryczne - **metoda prostokątów**; `integrate (0, 6x ^ 2 + 2) dx from 1 to 4`
 ### 9. Całkowanie numeryczne - **metoda parabol**; `integrate sin(x) * e ^ (- 3x) + x ^ 3 dx from - 3 to 1` oraz jej błąd maksymalny.
